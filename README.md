@@ -1,7 +1,9 @@
-# airplane-wildlife-strikes
-
-# Resources used
+## Resources used
 https://www.kaggle.com/datasets/dianaddx/aircraft-wildlife-strikes-1990-2023
+
+## Motivations for analysis
+Bird and other wildlife strikes are a consistant issue with aircraft 
+
 
 # Initial Impressions and Questions
 At what point do most wildlife strikes occur? Where do these strikes seem most prevalent (State, Airport, Rural vs City, etc.)? Is there any correlation between company and wildlife strike incidence? Does weather have any effect or is it seemingly coincidence? Do certain types of aircraft have more strikes?
